@@ -8,7 +8,7 @@ So as to run and study this course's practical sessions, you just need to instal
 4. pip install matplotlib
 5. pip install pandas
 
-After you install the above libraries, you need to make sure if it's installed well or not. So, to do this, you just need to run these commands:
+After you've installed the above libraries, you need to make sure if it's installed well or not. So, to do this, you just need to run these commands:
 1. pip show scikit-learn
 2. pip show numpy
 3. pip show matplotlib
